@@ -1,4 +1,4 @@
-# Interactive 3D Object using JavaScript and GLSL (WebGL Environment)
+# Computer Graphics: Interactive 3D Object using JavaScript and GLSL (WebGL Environment)
 
 This project demonstrates an **interactive 3D object** built using **JavaScript** and **GLSL** within a **WebGL environment**. The application provides users with controls to manipulate the object and its hierarchical components in real-time, showcasing the capabilities of WebGL for interactive 3D graphics in the browser.
 
